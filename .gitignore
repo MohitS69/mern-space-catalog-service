@@ -1,0 +1,18 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/tmp/
+logs/
+.env
+*.key
+*.pem
+*.crt
+certs/
+public/.well-known/
+
+
