@@ -2,4 +2,4 @@ server:
   port: 3002
   host: localhost
 db:
-  uri: mongodb://localhost:27017/catalog
+  uri: mongodb://mohit:secret@localhost:27017
